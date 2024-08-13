@@ -1,9 +1,0 @@
-[submodule "CI_P1--Genetic_Algorithm"]
-	path = CI_P1--Genetic_Algorithm
-	url = https://github.com/SiyavashAmirhajloo/CI_P1--Genetic_Algorithm
-[submodule "CI_P2---Neural_Networks"]
-	path = CI_P2---Neural_Networks
-	url = https://github.com/SiyavashAmirhajloo/CI_P2---Neural_Networks
-[submodule "CI_P3---Fuzzy_Genetic_Classifier"]
-	path = CI_P3---Fuzzy_Genetic_Classifier
-	url = https://github.com/SiyavashAmirhajloo/CI_P3---Fuzzy_Genetic_Classifier
